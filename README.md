@@ -1,6 +1,6 @@
 index.html
 
-<!DOCTYPE html>
+<!DOCTYPE htm>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
